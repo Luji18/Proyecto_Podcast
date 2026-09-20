@@ -16,12 +16,10 @@ En el podcast desarrollamos el tema **“Microservicios vs Arquitectura Monolít
 
 El objetivo de este podcast es comprender las diferencias entre una arquitectura monolítica y una arquitectura basada en microservicios, analizando de forma sencilla cómo funcionan y en qué situaciones pueden utilizarse.
 
-## Podcast
-
-Podcast ISO1 – Episodio 3
+## Podcast ISO1 – Episodio 3
 
 ### Microservicios vs. monolito
 
-[Escuchar o descargar el podcast](Podcast_ISO1_Episodio3.mp3)
+▶️ [Escuchar o descargar el podcast](Podcast_ISO1_Episodio3.mpeg)
 
-Este repositorio contiene los materiales correspondientes a la Fase 1 del proyecto Podcast ISO1.
+📂 Este repositorio contiene los materiales correspondientes a la Fase 1 del proyecto Podcast ISO1.
