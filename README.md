@@ -18,6 +18,10 @@ El objetivo de este podcast es comprender las diferencias entre una arquitectura
 
 ## Podcast
 
-En este repositorio se publicará el audio final de nuestro podcast.
+## 🎧 Podcast
+
+El audio final de nuestro podcast se encuentra disponible en este repositorio.
+
+👉 [🎧 Escuchar o descargar el Podcast](Podcast_ISO_Episodio3.mpeg)
 
 **Tema:** Microservicios vs Arquitectura Monolítica
